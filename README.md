@@ -1,5 +1,7 @@
 # Wave at me!
 
+![Screenshot from 2021-10-14 19-44-39](https://user-images.githubusercontent.com/8715080/137426835-c560c695-47da-47cf-95d6-a850ef2d6722.png)
+
 This is a simple proof of concept of building a web3 app!
 Users can connect an ethereum (testnet) wallet to send waves with messages to me, where they will be displayed on the site.
 Please excuse the lazy styling on the messages!
